@@ -20,12 +20,12 @@
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/arquitetura-css">Arquitetura CSS: descomplicando os problemas</a> com <b>auxílio</b> do instrutor <b>Matheus Castiglioni</b>.</p>
     <p style="text-align: justify;">É um site de receitas saudáveis.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurafruta.vercel.app/">aqui</a></p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurafruta.vercel.app/">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
-    <ul>
+    <ul style="text-align:"justify;"" align="justify">
         <li>Seletores CSS;</li>
         <li>Organizar a estruturar os arquivos css do projeto;</li>
         <li>Metodologia Atomic Design;</li>
@@ -46,7 +46,7 @@
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>;</li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>.</li>
     </ul>
 </section>
 
