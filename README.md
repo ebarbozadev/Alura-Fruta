@@ -53,7 +53,7 @@
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
     <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/9c4285ed-9ea8-4c5f-a088-c524048be59d">aqui</a>.</p>
-    <img src="Certificado de Conclusão Arquitetura CSS descomplicando os problemas">
+    <img src="Certificado de Conclusão Arquitetura CSS descomplicando os problemas.jpg">
 </section>
 
 <section id="autor">
