@@ -44,8 +44,8 @@
 <section id="tecnologias">
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
-        <li>HTML;</li>
-        <li>CSS.</li>
+        <li>HTML5;</li>
+        <li>CSS3.</li>
     </ul>
 </section>
 
